@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP05</string>
+    <string name="buttonShow">Afficher</string>
+    <string name="txtInputNber">Nombre Saisi</string>
+</resources>
